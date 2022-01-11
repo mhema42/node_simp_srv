@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "An example of how to use HTTP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mats Hema",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
